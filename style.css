@@ -14,6 +14,8 @@ body{
 	line-height: 70px;
 	background:#008080;
 }
+
+
 #nav1 h1{
 	float: left;
 	font-size: 2.5em;
@@ -40,7 +42,8 @@ body{
 }
 #nav1 ul li:hover{
 	background: #1684bb;
-}
+	transition: all ease-in-out 0.45s; 
+} 
 #active{
 	background: #1684bb;
 }
@@ -49,4 +52,14 @@ body{
 	height: 600px;
 	background:url(images/slide03.JPG) no-repeat;
 	background-size: cover;
+	text-align: center;
+	color: white;
+	line-height: 40px; 
+}
+#pic img{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+	margin-left: 85px;
+	
 }
