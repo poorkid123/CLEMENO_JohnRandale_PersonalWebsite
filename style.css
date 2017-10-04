@@ -55,11 +55,13 @@ body{
 	text-align: center;
 	color: white;
 	line-height: 40px; 
+	position: center;
 }
 #pic img{
 	border-radius: 50%;
 	height: 200px;
 	width: 200px;
 	margin-left: 85px;
+	position: center;
 	
 }
