@@ -106,11 +106,33 @@ body{
 #nav2 ul li{
 	display:inline-block;
 	list-style-type: none;
-	font-size:30px;
+	
 }
 
 #nav2 ul li a{
 	text-decoration: none;
 	color: white;
-	padding:10px
+	padding: 10px;
+
+}
+#icon{
+	font-size: 35px;
+}
+#icon2{
+	font-size: 35px;
+}
+#icon3{
+	font-size: 35px;
+}
+#icon:hover{
+	color:rgb(61, 120, 165);
+	transition: all ease-in-out 0.40s;
+}
+#icon2:hover{
+	color:#39C1FC;
+	transition: all ease-in-out 0.40s;
+}
+#icon3:hover{
+	color:red;
+	transition: all ease-in-out 0.40s;
 }
