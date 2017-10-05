@@ -136,6 +136,10 @@ body{
 	color:red;
 	transition: all ease-in-out 0.40s;
 }
+#icon4:hover{
+	color:cyan;
+	transition: all ease-in-out 0.40s;
+}
 #content{
 	width: 85%;
 	height: 250px;
