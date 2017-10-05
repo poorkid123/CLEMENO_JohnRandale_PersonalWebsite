@@ -124,7 +124,7 @@ body{
 #icon3{
 	font-size: 35px;
 }
-#icon:hover{
+#icon:hover{ 
 	color:rgb(61, 120, 165);
 	transition: all ease-in-out 0.40s;
 }
