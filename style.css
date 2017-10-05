@@ -161,3 +161,8 @@ body{
 	height:400px;
 	margin-left:101px;
 }
+#text{
+	float: right;
+	width: 500px;
+	margin-right: 50px;
+}
